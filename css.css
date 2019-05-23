@@ -21,7 +21,7 @@ body {
 }
 
 .two {
-	background-color: lightgreen;
+	background-color: red;
 	padding: 45px 0 45px 0;
 	height: 500px;
 	float: left;
@@ -37,8 +37,17 @@ body {
 }
 
 .four {
-	background-color: hotpink;
+	border-bottom: 5px solid white;
+	background-color: lightgreen;
 	padding: 20px 0 20px 0;
-	clear: both;
-	width: 100%;
+	float: left;
+	width: 50%;
+}
+
+.five {
+	border-bottom: 5px solid white;
+	background-color: lightgreen;
+	height: 108px;
+	float: right;
+	width: 50%;
 }
