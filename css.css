@@ -1,0 +1,44 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: pink;
+}
+
+.main_block {
+	width: 1000px;
+	margin: auto;
+}
+
+.main {
+	text-align: center;
+	font-size: 30px;
+}
+
+.one {
+	background-color: white;
+	padding: 20px 0 20px 0;
+	font-weight: bold;
+	width: 100%;
+}
+
+.two {
+	background-color: lightgreen;
+	padding: 45px 0 45px 0;
+	height: 500px;
+	float: left;
+	width: 50%;
+}
+
+.three {
+	background-color: lightblue;
+	padding: 45px 0 45px 0;
+	height: 500px;
+	float: right;
+	width: 50%;
+}
+
+.four {
+	background-color: hotpink;
+	padding: 20px 0 20px 0;
+	clear: both;
+	width: 100%;
+}
