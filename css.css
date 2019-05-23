@@ -15,7 +15,7 @@ body {
 
 .one {
 	background-color: white;
-	padding: 20px 0 20px 0;
+	padding: 30px 0 30px 0;
 	font-weight: bold;
 	width: 100%;
 }
@@ -37,17 +37,16 @@ body {
 }
 
 .four {
-	border-bottom: 5px solid white;
 	background-color: lightgreen;
-	padding: 20px 0 20px 0;
-	float: left;
-	width: 50%;
+	padding: 10px 0 10px 12%;
+	text-align: left;
+	width: 88%;
+	clear: both;
 }
 
-.five {
-	border-bottom: 5px solid white;
-	background-color: lightgreen;
-	height: 108px;
-	float: right;
-	width: 50%;
+.pick {
+	background-color: #74c174;
+	margin-bottom: -8px;
+	border-radius: 8px;
+	padding: 15px;
 }
