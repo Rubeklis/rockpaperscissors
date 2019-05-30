@@ -14,14 +14,14 @@ body {
 }
 
 .one {
-	background-color: white;
+	background-color: #ced3db;
 	padding: 30px 0 30px 0;
 	font-weight: bold;
 	width: 100%;
 }
 
 .two {
-	background-color: red;
+	background-color: white;
 	padding: 45px 0 45px 0;
 	height: 500px;
 	float: left;
@@ -29,7 +29,7 @@ body {
 }
 
 .three {
-	background-color: lightblue;
+	background-color: #d9dde2;
 	padding: 45px 0 45px 0;
 	height: 500px;
 	float: right;
@@ -37,7 +37,7 @@ body {
 }
 
 .four {
-	background-color: lightgreen;
+	background-color: #ced3db;
 	padding: 10px 0 10px 12%;
 	text-align: left;
 	width: 88%;
@@ -45,7 +45,7 @@ body {
 }
 
 .pick {
-	background-color: #74c174;
+	background-color: #babec4;
 	margin-bottom: -8px;
 	border-radius: 8px;
 	padding: 15px;
